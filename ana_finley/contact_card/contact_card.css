@@ -1,0 +1,55 @@
+#wrapper{
+    height: 350px;
+    width: 950px;
+}
+#header{
+ height: 150px;
+ background-color: green;
+ margin-bottom: 15px;
+ border-bottom: 5px solid black;
+}
+h4{
+    text-align: center;
+}
+form{
+    margin-left: 20px;
+    display: block;
+    float: left;
+    margin-left: 10px;
+}
+label{
+    display: block;
+}
+input{
+    display: block;
+}
+.text_input{
+    display: inline-block;
+}
+p, textarea{
+    display: block;
+}
+#users{
+    margin-left: 460px;
+    display: inline;
+    padding-top: 0px;
+}
+#contact_card{
+    float: right;
+    margin-right: 250px;
+    display: inline;
+    /*border: 1px solid black;*/
+    height: 120px;
+    width: 180px;
+}
+#contact_description{
+    float: right;
+    margin-right: 250px;
+    display: inline;
+    /*border: 1px solid black;*/
+    height: 120px;
+    width: 180px;
+}
+#fname, #lname{
+    display: inline;
+}
